@@ -57,10 +57,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SoumenDevloper985&theme=onedark&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=20&show_icons=true&rank_icon=github&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumendevloper985&show_icons=true&locale=en&layout=compact" alt="soumendevloper985" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumendevloper985&show_icons=true&locale=en" alt="soumendevloper985" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumendevloper985&" alt="soumendevloper985" /></p>
-
+<p align="center">
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenDevloper985&layout=compact&theme=dark"/>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=SoumenDevloper985&show_icons=true&theme=dark"/>  
+</p>
 <p align="center">
 <img width="250"  height="60" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/df96a80f-eab5-469c-a0c3-a705c30ba42a"/>
 </p>
