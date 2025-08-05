@@ -52,6 +52,12 @@
 
 <hr/>
 
+## 🌐 My CP Profiles
+
+- [🔗 LeetCode](https://leetcode.com/u/Soumen05/)
+- [🔗 GFG](https://www.geeksforgeeks.org/user/maitysoumhiu/)
+- [🔗 CodeChef](https://www.codechef.com/users/soumenmaity05)
+---
 <h2 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="48"> Profile stats  </h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SoumenDevloper985&theme=onedark&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=20&show_icons=true&rank_icon=github&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
