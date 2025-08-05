@@ -52,12 +52,13 @@
 
 <hr/>
 
-## 🌐 My CP Profiles
+<h2 align="left"><img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-01-367_512.gif" width="48"> Competitive programming Profile</h2>
+<p align="left">
+<a href="https://leetcode.com/u/Soumen05/"><img src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000" height="48" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/user/maitysoumhiu/"><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64" height="48" alt="GFG"/></a>
+<a href="https://www.codechef.com/users/soumenmaity05"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" height="48" alt="CodeChef"/></a>
+</p>
 
-- [🔗 LeetCode](https://leetcode.com/u/Soumen05/)
-- [🔗 GFG](https://www.geeksforgeeks.org/user/maitysoumhiu/)
-- [🔗 CodeChef](https://www.codechef.com/users/soumenmaity05)
----
 <h2 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="48"> Profile stats  </h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SoumenDevloper985&theme=onedark&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=20&show_icons=true&rank_icon=github&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
@@ -73,7 +74,7 @@
 
 <p align="center">
   <img height="500" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
-  <img align="top" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=SoumenDevloper985&theme=dark"/>  
+  <img align="top" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=https://github.com/SoumenDevloper985&theme=dark"/>  
   <img height="500" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73"/> 
 
 ### 🙌 Thank You for Visiting!!
