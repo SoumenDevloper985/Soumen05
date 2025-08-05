@@ -1,7 +1,9 @@
 <img width=400 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
 <p align="left">
   <h1 align="center"> Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="48" height="48">, I'm Soumen</h1>
-  
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F700&lines=Welcome+to+my+GitHub;Know+more+about+me+below+👇;Have+a+look+at+my+repositories...&center=true&width=500&height=50"></a>
+</p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SoumenDevloper985&color=blueviolet"/>
   </p>
