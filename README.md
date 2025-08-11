@@ -2,7 +2,6 @@
 
 <p align="left">
   <h1 align="center"> Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="48" height="48">, I'm Soumen</h1>
-  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F700&lines=Welcome+to+my+GitHub;Know+more+about+me+below+👇;Have+a+look+at+my+repositories...&center=true&width=500&height=50"></a>
 </p>
 
