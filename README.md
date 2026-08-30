@@ -16,6 +16,10 @@
   
   - 👀 Full Stack web developer and Deep Learning enthusiast
   - 🌱 Currently pursing `B.Tech` in `Computer Science And Technology` from `IIEST Shibpur`
+  - 🤖 Working on AI/ML projects including AI Interview Coach using LLMs, RAG, Whisper STT, and LangChain
+  - 🧠 Strong interest in <b>Data Structures & Algorithms, System Design, and Software Engineering
+  - 🔬 Research Assistant working on AI-powered developer tools and intelligent systems
+  - 📫 Open to Software Engineering Internships and Full-Time Opportunities
 </p>
 
 <hr/>
@@ -47,7 +51,7 @@
 <p align="left">
 <a href="https://git-scm.com"><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="48" alt="NextJS"/></a>   
 <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="48" alt="React"/></a>
-<a href="https://git-scm.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height="48" alt="Tailwind CSS"/></a>
+<a href="https://git-scm.com"><img src ="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png" height="48" alt="Tailwind CSS"/></a>
 <a href="https://git-scm.com"><img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" height="48" alt="Prisma"/></a> 
   <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB"/></a> 
   <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="48" alt="Git"/></a>
@@ -61,19 +65,13 @@
 <a href="https://leetcode.com/u/SoumenMaity06/"><img src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000" height="48" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/user/maitysoumhiu/"><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64" height="48" alt="GFG"/></a>
 <a href="https://www.codechef.com/users/soumen07"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" height="48" alt="CodeChef"/></a>
-<a href="https://codeforces.com/profile/smaity14373"><img src="https://yxxshin.github.io/images/CodeForces_Cover.jpg" height="48" alt="Codeforce"/></a>
+<a href="https://codeforces.com/profile/Soumen18"><img src="https://yxxshin.github.io/images/CodeForces_Cover.jpg" height="48" alt="Codeforce"/></a>
 </p>
-
 <h2 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="48"> Profile stats  </h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoumenDevloper985&theme=onedark&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=20&show_icons=true&rank_icon=github&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-</p>
 
-<p align="center">
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenDevloper985&layout=compact&theme=dark"/>
-  </p>
-  <p align="center">
-    <img height="500" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=SoumenDevloper985&show_icons=true&theme=dark"/>  
-    <img height="500" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73"/> 
-  </div>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoumenDevloper985&theme=tokyonight"height="180"/>
+<br><br>
+<img 
+src="https://streak-stats.demolab.com?user=SoumenDevloper985&theme=tokyonight&hide_border=true"height="180"/>
+</div>
